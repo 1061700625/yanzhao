@@ -25,8 +25,8 @@ def main():
     return content
 
 def youxiang(receive='1061700625@qq.com'):
-    msg_from = '2580833660@qq.com'  # 发送方邮箱
-    passwd = 'wpbevfnmpfdsdiad'  # 填入发送方邮箱的授权码
+    msg_from = '！！！'  # 发送方邮箱
+    passwd = '！！！'  # 填入发送方邮箱的授权码
     receiver = receive  # 收件人邮箱
 
     subject = "已更新"  # 主题
